@@ -46,9 +46,7 @@ Recommended:
 
 Try:
 
-```
 Create a simple React Todo App.
-```
 
 If the model responds correctly, your setup is complete.
 
@@ -85,12 +83,8 @@ In many coding workflows, DeepSeek can be significantly cheaper.
 
 ## Related Guides
 
-- [Cursor + DeepSeek](https://github.com/nanobridgerafa/cursor-deepseek-guide)
-- [DeepSeek API Pricing](https://github.com/nanobridgerafa/deepseek-api-pricing)
-- [OpenRouter Alternatives](https://github.com/nanobridgerafa/openrouter-alternative)
+- Cursor + DeepSeek
+- DeepSeek API Pricing
+- OpenRouter Alternatives
 
 Provider used in the screenshots: Nanobridge.
-
-## License
-
-MIT
