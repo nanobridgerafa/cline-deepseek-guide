@@ -23,15 +23,15 @@ Before starting, you need:
 
 ## Step 1 - Open Cline Settings
 
-![Step 1 — Open Cline Settings](assets/step1-open-settings.png)
+![Step 1 - Open Cline Settings](assets/step1-open-settings.jpg)
 
 ## Step 2 - Configure Provider
 
-![Step 2 — Configure Provider](assets/step2-configure-provider.png)
+![Step 2 - Configure Provider](assets/step2-configure-provider.jpg)
 
 ## Step 3 - Add API Key
 
-![Step 3 — Add API Key](assets/step3-api-key.png)
+![Step 3 - Add API Key](assets/step3-api-key.jpg)
 
 ## Step 4 - Select DeepSeek Model
 
@@ -40,7 +40,7 @@ Recommended:
 - DeepSeek V4 Pro
 - DeepSeek V4 Flash
 
-![Step 4 — Select DeepSeek Model](assets/step4-select-model.png)
+![Step 4 - Select DeepSeek Model](assets/step4-select-model.jpg)
 
 ## Step 5 - Test Your Setup
 
@@ -50,7 +50,7 @@ Create a simple React Todo App.
 
 If the model responds correctly, your setup is complete.
 
-![Step 5 — Test Your Setup](assets/step5-test-setup.png)
+![Step 5 - Test Your Setup](assets/step5-test-setup.jpg)
 
 ## Common Errors
 
